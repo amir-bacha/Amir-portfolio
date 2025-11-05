@@ -12,10 +12,37 @@ nav{
     justify-content: center;
     align-items: center;
     justify-content: space-around;
+    height:80px;
+    background-color: rgb(2, 2, 44);
+   
 }
 nav ul{
     display:flex;
     justify-content: space-around;
     align-items: center;
     list-style: none;
+    font-size: 1rem;
+}
+.left{
+    font-size: 1.5rem;
+}
+li{
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+.firstSection{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin:50px 0;
+}
+.leftSection{
+    background-color: red;
+}
+.firstSection div{
+    width:32%;
+
+}
+.rightSection{
+    background-color: red;
 }
