@@ -74,3 +74,34 @@ main hr{
     height:1.5px;
     margin:120px 80px;
 }
+.line{
+    background-color: white;
+    width:80vw;
+    height:1px;
+    margin:70px 0;
+    display:flex;
+}
+.line .verticle{
+    height:150px;
+    width:1px;
+    background-color: white;
+    margin:0 120px;
+}
+.imag{
+    width: 25px;
+    position:relative;
+    right:10px;
+    bottom:25px;
+    margin:0 3px 6px 0;
+}
+.vertical-title{
+    position:relative;
+    top:125px;
+    width:150px;
+
+}
+.vertical-text{
+    position:relative;
+    top:140px;
+    width:160px;
+}
